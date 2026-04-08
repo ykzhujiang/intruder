@@ -1,0 +1,53 @@
+{
+  "verdict": "PASS",
+  "style": "realistic",
+  "assets": [
+    {
+      "label": "周然",
+      "type": "character",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 4,
+      "quality_ok": true,
+      "issues": [
+        "手表戴在了右手腕，与描述要求的左腕不符。"
+      ],
+      "retry_suggestion": null
+    },
+    {
+      "label": "苏铭",
+      "type": "character",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 5,
+      "quality_ok": true,
+      "issues": [],
+      "retry_suggestion": null
+    },
+    {
+      "label": "周然办公室-夜",
+      "type": "scene",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 5,
+      "quality_ok": true,
+      "issues": [],
+      "retry_suggestion": null
+    },
+    {
+      "label": "苏铭办公室-夜",
+      "type": "scene",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 5,
+      "quality_ok": true,
+      "issues": [],
+      "retry_suggestion": null
+    }
+  ],
+  "summary": "4/4 assets passed"
+}
