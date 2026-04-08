@@ -21,7 +21,8 @@
       "started_at": "2026-04-08T11:12:09.954095+00:00",
       "completed_at": "2026-04-08T11:12:55.521811+00:00",
       "output": "production/storyboard/ep01.md",
-      "segment_count": 5
+      "segment_count": 1,
+      "note": "LLM generated 5 segments, manually rewritten to 1 segment 6 parts per V6.1 spec"
     },
     "step1.5": {
       "status": "not_started"
