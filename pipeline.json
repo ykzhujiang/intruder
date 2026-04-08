@@ -1,0 +1,35 @@
+{
+  "project": "intruder",
+  "created_at": "2026-04-08T11:11:57.938223+00:00",
+  "github_repo": "ykzhujiang/intruder",
+  "config": {
+    "theme": "顶级白帽黑客周然发现公司AI产品被植入后门，追踪到竞争对手CEO——大学室友苏铭。深夜办公室赛博朋克氛围。",
+    "genre": "thriller",
+    "style": "realistic",
+    "duration": 60,
+    "characters": 2,
+    "setting": "中国·当代·科技公司",
+    "ratio": "9:16",
+    "episode": "ep01",
+    "source_video": null,
+    "entry": "B"
+  },
+  "status": "not_started",
+  "steps": {
+    "step1b": {
+      "status": "not_started"
+    },
+    "step1.5": {
+      "status": "not_started"
+    },
+    "step3": {
+      "status": "not_started"
+    },
+    "step4": {
+      "status": "not_started"
+    },
+    "step6": {
+      "status": "not_started"
+    }
+  }
+}
