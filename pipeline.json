@@ -14,7 +14,7 @@
     "source_video": null,
     "entry": "B"
   },
-  "status": "step1b_done",
+  "status": "step1.5_done",
   "steps": {
     "step1b": {
       "status": "done",
@@ -25,7 +25,12 @@
       "note": "LLM generated 5 segments, manually rewritten to 1 segment 6 parts per V6.1 spec"
     },
     "step1.5": {
-      "status": "not_started"
+      "status": "done",
+      "started_at": "2026-04-08T11:14:00.736380+00:00",
+      "completed_at": "2026-04-08T11:14:17.529951+00:00",
+      "output": "production/storyboard/ep01_storyboard_verdict.json",
+      "character_verdict": "PASS",
+      "storyboard_verdict": "PASS"
     },
     "step3": {
       "status": "not_started"
